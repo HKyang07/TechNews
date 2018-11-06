@@ -13,6 +13,6 @@ Install CocoaPods to install the third party libraries.
 
 ## Screenshots
 
-<img src="https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_01.PNG" width="33%" height="33%">
-<img src="https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_02.PNG" width="33%" height="33%">
-<img src="https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_03.PNG" width="33%" height="33%">
+<img src="https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_01.PNG" width="50%" height="50%">
+<img src="https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_02.PNG" width="50%" height="50%">
+<img src="https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_03.PNG" width="50%" height="50%">
