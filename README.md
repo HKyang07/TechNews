@@ -3,7 +3,7 @@ This is a simple new iOS app fetch technology news from HackerNews API, I develo
 
 Install CocoaPods to install the third party libraries.
 
-##Libraries imported:
+###Libraries imported:
 
 - XLPagerTabStrip: Implement the tab strip UI.  
 - Alamofire: Network processing and request for data from network api.  
@@ -11,7 +11,7 @@ Install CocoaPods to install the third party libraries.
 - SwiftJSON: Process the response data in JSON.
 - Realm: Save the news data in local file system, search and load the news when needed.
 
-##Screenshots
-![technews01]()
-![technews02]()
-![technews03]()
+###Screenshots
+![technews01](https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_01.PNG)
+![technews02](https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_02.PNG)
+![technews03](https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_03.PNG)
