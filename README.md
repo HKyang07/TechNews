@@ -12,7 +12,7 @@ Install CocoaPods to install the third party libraries.
 - Realm: Save the news data in local file system, search and load the news when needed.
 
 ## Screenshots
-![technews01](https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_01.PNG){:height="30%" width="30%"}
-<img src="https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_01.PNG" width="30%" height="30%">
-![technews02](https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_02.PNG){:height="30%" width="30%"}
-![technews03](https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_03.PNG){:height="30%" width="30%"}
+
+<img src="https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_01.PNG" width="33%" height="33%">
+<img src="https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_02.PNG" width="33%" height="33%">
+<img src="https://github.com/HKyang07/TechNews/blob/master/Resources/IMG_03.PNG" width="33%" height="33%">
