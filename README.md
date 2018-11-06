@@ -1,7 +1,7 @@
 # TechNews
-This is a simple new iOS app fetch technology news from HackerNews API, I develop it as a practice of learn Swift, I will keep polish it.
+This is a simple news iOS app fetching technology news from the HackerNews API, I develop it as a practice of learning Swift, I will keep polishing it.
 
-Install CocoaPods to install the third party libraries.
+Install CocoaPods to import the third party libraries.
 
 ## Libraries imported:
 
